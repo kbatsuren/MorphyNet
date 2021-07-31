@@ -1,3 +1,3 @@
 # MorphyNet
 
-We will be releasing all the data before 2021 August 05. Thanks for the interest!
+We will be releasing all the data before August 05, 2021. We do apologize for the late release. Thanks for the interest!
