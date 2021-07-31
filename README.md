@@ -3,11 +3,11 @@
 We will be releasing all the data before August 05, 2021. We do apologize for the late release. Thanks for the interest!
 
 ## Source:
-English Wiktionary
-Russian Wiktionary
-Czech Wiktionary
-Hungarian Wiktionary
-Polish Wiktionary
+English Wiktionary <br />
+Russian Wiktionary <br />
+Czech Wiktionary <br />
+Hungarian Wiktionary <br />
+Polish Wiktionary <br />
 
 ## License: 
 https://creativecommons.org/licenses/by-sa/3.0/
