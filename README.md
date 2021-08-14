@@ -1,6 +1,6 @@
 # MorphyNet
 
-We will be releasing all the data before ~~August 05~~ September 01, 2021. We do apologize for the late release. Thanks for the interest!
+We will be releasing all the data before ~~August 5~~ September 1, 2021. We do apologize for the late release. Thanks for the interest!
 
 ## Source:
 English Wiktionary <br />
