@@ -4,10 +4,17 @@ We will be releasing all the data before ~~August 5~~ September 1, 2021. We do a
 
 ## Source:
 English Wiktionary <br />
+French Wiktionary <br />
 Russian Wiktionary <br />
 Czech Wiktionary <br />
 Hungarian Wiktionary <br />
 Polish Wiktionary <br />
+German Wiktioanry <br />
+Italian Wiktioanry <br />
+Catalan Wiktionary <br />
+Finnish Wiktionary <br />
+Portuguese Wiktionary <br />
+
 
 ## License: 
 https://creativecommons.org/licenses/by-sa/3.0/
