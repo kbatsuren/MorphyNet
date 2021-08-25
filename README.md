@@ -14,6 +14,7 @@ Italian Wiktioanry <br />
 Catalan Wiktionary <br />
 Finnish Wiktionary <br />
 Portuguese Wiktionary <br />
+Spanish Wiktionary <br />
 
 
 ## License: 
