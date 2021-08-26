@@ -5,7 +5,7 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 
 ## Statistics:
 
-|    |                |  infl.       infl.   |   infl.   |  deri.  |   deri. |   deri.   |            |
+|    |                |  infl.  |    infl.   |   infl.   |  deri.  |   deri. |   deri.   |            |
 |----|----------------|:-------:|:----------:|:---------:|:-------:|--------:|:---------:|-----------:|
 |    | Languages      |  words  |    forms   | morphemes |  words  |  forms  | morphemes |    total   |
 | 1  | Finnish        |  65,402 |  1,617,751 |     1,139 |  18,142 |  36,843 |       446 |  1,654,594 |
