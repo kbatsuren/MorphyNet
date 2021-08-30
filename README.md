@@ -27,9 +27,11 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 
 ## Morpheme segmentation:
 
-| lemma |	inflected form |  morphological features | morpheme segmentation|
-| --- |	--- | --- | --- |
-| holmi| holmikat| N\|PL\|ACC	| holmi\|k\|at |
+|language| lemma |	inflected form |  morphological features | morpheme segmentation|
+| --- | --- |	--- | --- | --- |
+|hun|holmi| holmikat| N\|PL\|ACC	| holmi\|k\|at |
+|rus|оборваться|оборвались|V;PFV\|IND;PST;FIN\|PL\|MID|оборвать\|л\|и\|ся|
+|cat|ossificar|ossificaven|V\|IND;PST;IPFV\|3;PL|ossificar\|ava\|en|
 
 ## Source:
 English Wiktionary <br />
