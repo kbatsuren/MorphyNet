@@ -25,6 +25,12 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 | 15 | Mongolian      |   2,085 |     14,592 |        35 |   1,410 |   1,629 |       229 |     16,221 |
 |    |                | 722,550 | 10,091,327 |     3,362 | 193,260 | 696,079 |     8,843 | 10,771,200 |
 
+## Morpheme segmentation:
+
+| lemma |	inflected form |  morphological features | morpheme segmentation|
+| --- |	--- | --- | --- |
+| holmi| holmikat| N\|PL\|ACC	| holmi\|k\|at |
+
 ## Source:
 English Wiktionary <br />
 French Wiktionary <br />
