@@ -3,6 +3,16 @@
 Currently, MorphyNet contains 10M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
 Special note: We will be releasing the final version data on September 1, 2021 due to the current development of Wiktionary extractions. Thanks for the interest!
 
+
+## Morpheme segmentation:
+
+|language| lemma |	inflected form |  morphological features | morpheme segmentation|
+| --- | --- |	--- | --- | --- |
+|hun|holmi| holmikat| N \| PL \| ACC	| holmi \| k \| at |
+|rus|оборваться| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| ся |
+|cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
+
+
 ## Statistics:
 
 |    |                |  infl.  |    infl.   |   infl.   |  deri.  |   deri. |   deri.   |            |
@@ -24,14 +34,6 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 | 14 | Swedish        |  14,485 |    131,693 |        32 |   2,190 |   9,244 |       217 |    140,937 |
 | 15 | Mongolian      |   2,085 |     14,592 |        35 |   1,410 |   1,629 |       229 |     16,221 |
 |    |                | 722,550 | 10,091,327 |     3,362 | 193,260 | 696,079 |     8,843 | 10,771,200 |
-
-## Morpheme segmentation:
-
-|language| lemma |	inflected form |  morphological features | morpheme segmentation|
-| --- | --- |	--- | --- | --- |
-|hun|holmi| holmikat| N \| PL \| ACC	| holmi \| k \| at |
-|rus|оборваться| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| ся |
-|cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
 
 ## Source:
 English Wiktionary <br />
