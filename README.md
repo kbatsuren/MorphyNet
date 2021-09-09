@@ -1,6 +1,6 @@
 # MorphyNet
 
-Currently, MorphyNet contains 10M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
+Currently, MorphyNet contains 12.9M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
 Special note: We will be releasing the final version data on September 1, 2021 due to the current development of Wiktionary extractions. Thanks for the interest!
 
 
