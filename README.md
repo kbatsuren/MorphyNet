@@ -4,7 +4,7 @@ Currently, MorphyNet contains 12.9M inflectional and 696K derivational instances
 Special note: We will be releasing the final version data on September 1, 2021 due to the current development of Wiktionary extractions. Thanks for the interest!
 
 
-## Morpheme segmentation:
+## Inflectional morphology:
 
 |language| lemma |	inflected form |  morphological features | morpheme segmentation|
 | --- | --- |	--- | --- | --- |
