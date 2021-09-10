@@ -12,6 +12,14 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 |rus|оборваться| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| ся |
 |cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
 
+## Derivational morphology:
+
+| Language | source word | target word | source POS | target POS | affix | type   |
+|----------|-------------|-------------|------------|------------|-------|--------|
+| eng      | slow        | slowly      | J          | R          | ly    | suffix |
+| eng      | describe    | misdescribe | V          | V          | mis   | prefix |
+| mon      | сурах       | сурагч      | V          | N          | гч    | suffix |
+
 
 ## Statistics:
 
