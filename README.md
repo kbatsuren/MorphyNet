@@ -9,7 +9,7 @@ Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances
 |hun|holmi| holmikat| N \| PL \| ACC	| holmi \| k \| at |
 |rus|оборваться| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| ся |
 |cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
-|spa|abrir|abrámonos| V \| IMP;POS;1;PL \| ACC;PRO;1;PL	abrir \| amos \| nos|
+|spa|abrir|abrámonos| V \| IMP;POS;1;PL \| ACC;PRO;1;PL	| abrir \| amos \| nos|
 
 ## Derivational morphology:
 
