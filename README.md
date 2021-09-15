@@ -1,8 +1,6 @@
 # MorphyNet
 
-Currently, MorphyNet contains 12.9M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
-Special note: We will be releasing the final version data on September 1, 2021 due to the current development of Wiktionary extractions. Thanks for the interest!
-
+Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
 
 ## Inflectional morphology:
 
@@ -11,6 +9,7 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 |hun|holmi| holmikat| N \| PL \| ACC	| holmi \| k \| at |
 |rus|оборваться| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| ся |
 |cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
+|spa|abrir|abrámonos| V \| IMP;POS;1;PL \| ACC;PRO;1;PL	| abrir \| amos \| nos|
 
 ## Derivational morphology:
 
@@ -31,7 +30,7 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 | 3  | Italian        |    89,763 |    712,021 |       100 |  18,650 |  58,848 |       749 |    770,869 |
 | 4  | Hungarian      |    38,067 |  1,016,819 |       428 |  14,566 |  28,177 |       832 |  1,044,996 |
 | 5  | Russian        |    36,387 |  1,321,024 |       215 |  11,922 |  93,039 |       575 |  1,414,063 |
-| 6  | Spanish        |    65,828 |    688,177 |        66 |   9,159 |  25,080 |       490 |    713,257 |
+| 6  | Spanish        |    65,565 |  1,289,324 |        66 |   9,159 |  25,080 |       490 |  1,314,404 |
 | 7  | French         |    52,711 |    453,229 |       118 |  12,473 |  72,952 |       636 |    526,181 |
 | 8  | Portuguese     |    39,029 |    376,341 |       158 |   6,076 |  11,774 |       387 |    388,115 |
 | 9  | Polish         |    36,940 |    663,545 |       251 |   6,518 |  58,711 |       405 |    722,256 |
@@ -41,7 +40,7 @@ Special note: We will be releasing the final version data on September 1, 2021 d
 | 13 | Catalan        |    14,979 |    158,922 |        58 |   3,244 |   8,018 |       220 |    166,940 |
 | 14 | Swedish        |    12,508 |    131,599 |        29 |   2,190 |   9,244 |       217 |    140,843 |
 | 15 | Mongolian      |     2,085 |     14,592 |        35 |   1,410 |   1,629 |       229 |     16,221 |
-|    |                | 1,008,178 | 12,961,541 |     3,204 | 193,260 | 696,079 |     8,843 | 13,657,620 |
+|    |                | 1,007,915 | 13,562,688 |     3,204 | 193,260 | 696,079 |     8,843 | 14,258,767 |
 ## Source:
 English Wiktionary <br />
 French Wiktionary <br />
