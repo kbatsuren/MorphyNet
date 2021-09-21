@@ -13,7 +13,7 @@ Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances
 
 ## Derivational morphology:
 
-| Language | source word | target word | source POS | target POS | affix | type   |
+| Language | source word | target word | source POS | target POS | morpheme | type   |
 |----------|-------------|-------------|------------|------------|-------|--------|
 | eng      | slow        | slowly      | J          | R          | ly    | suffix |
 | eng      | describe    | misdescribe | V          | V          | mis   | prefix |
