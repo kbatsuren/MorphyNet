@@ -1,6 +1,6 @@
 # MorphyNet
 
-Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.  
+MorphyNet is a large-scale, high-quality multilingual database of derivational and inflectional morphology. Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.   
 
 ## Inflectional morphology:
 
