@@ -10,6 +10,7 @@ MorphyNet is a large-scale, high-quality multilingual database of derivational a
 |rus|оборвать| оборвались | V;PFV \| IND;PST;FIN \| PL \| MID | оборвать \| л \| и \| сь |
 |cat|ossificar|ossificaven| V \| IND;PST;IPFV \| 3;PL | ossificar \| ava \| en|
 |spa|abrir|abrámonos| V \| IMP;POS;1;PL \| ACC;PRO;1;PL	| abrir \| amos \| nos|
+|fin|tahmautua|tahmauduttaneen| V;PRS;POS \| PASS \| POT | tahmaudu \| tta \| neen |
 
 ## Derivational morphology:
 
